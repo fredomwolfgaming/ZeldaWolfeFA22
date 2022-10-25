@@ -1,0 +1,4 @@
+/[Aa]ssets/3DGameKit*
+needs added to git ignore
+
+then to use the project, inport the asset pack?
