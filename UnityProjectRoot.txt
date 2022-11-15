@@ -2,3 +2,5 @@
 needs added to git ignore
 
 then to use the project, inport the asset pack?
+
+ensure unity is loggged in, add unity 3dgamekit from asset store
