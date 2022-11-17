@@ -4368,7 +4368,6 @@ PrefabInstance:
       propertyPath: lookAt
       value: 
       objectReference: {fileID: 447740982}
-<<<<<<< HEAD
     - target: {fileID: 114761749801698018, guid: 1fac0dae54de3224181696b709bb4d66,
         type: 3}
       propertyPath: m_XAxis.m_MaxSpeed
@@ -4389,8 +4388,6 @@ PrefabInstance:
       propertyPath: m_XAxis.m_SpeedMode
       value: 1
       objectReference: {fileID: 0}
-=======
->>>>>>> parent of f44c9d9 (camSpeed)
     - target: {fileID: 114821708130241382, guid: 1fac0dae54de3224181696b709bb4d66,
         type: 3}
       propertyPath: settings.Array.size
@@ -6149,7 +6146,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-61416
+  m_Name: pb_Mesh26268
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
